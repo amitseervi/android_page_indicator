@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalPageIndicator">
+        <attr name="pageCount" format="integer" />
+        <attr name="indicatorRadius" format="dimension" />
+        <attr name="infiniteIndicators" format="boolean" />
+        <attr name="visibleIndicatorCount" format="integer" />
+        <attr name="indicatorPadding" format="dimension" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="selectedColor" format="dimension" />
+        <attr name="inactiveColor" format="dimension" />
+    </declare-styleable>
+</resources>
